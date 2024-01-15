@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 06f9316c952962e4fa77977383791f2a
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bodymat
+    second: {fileID: 2100000, guid: c03eafafe87c61e4a8c0f46c085e5283, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottommat
+    second: {fileID: 2100000, guid: 1bc2f8c4e47979c49a917cc0e15dff5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyewearmat
+    second: {fileID: 2100000, guid: bdc1454eef9049349bc09adf3d8d3d09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glovemat
+    second: {fileID: 2100000, guid: a3e7bab963b490c419dfc965f279a1a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoesmat
+    second: {fileID: 2100000, guid: f25a48bf6bec3e847a50a6e5a3510764, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Topmat
+    second: {fileID: 2100000, guid: b92d45938adbc844689dcda2e2260e27, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Body_Diffuse
+    second: {fileID: 2800000, guid: 1527e1309948dc645b5db842fd887ad4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Body_Gloss
+    second: {fileID: 2800000, guid: 27d285cce7653b5499788e20bf96c958, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Body_Normal
+    second: {fileID: 2800000, guid: a0dbb6f7b6720e2418a30649446d13fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Body_Opacity
+    second: {fileID: 2800000, guid: bedb9507fd42eb045b24264da4e28f81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Body_Specular
+    second: {fileID: 2800000, guid: e021da097d3ed4e478e11966cafba7fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Bottom_Diffuse
+    second: {fileID: 2800000, guid: c2966d651e55402458aee45a507cc74d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Bottom_Gloss
+    second: {fileID: 2800000, guid: d1137c8da6091a64d9b353cf12b45a01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Bottom_Normal
+    second: {fileID: 2800000, guid: 12f0a2280e0054441879a63bae99f84b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Bottom_Opacity
+    second: {fileID: 2800000, guid: c516114bcd3984c4798a0458f348e274, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Bottom_Specular
+    second: {fileID: 2800000, guid: 7c77c890ab5021547b0a6acf735e3306, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Eyewear_Diffuse
+    second: {fileID: 2800000, guid: 31e1c2c951c03684388c78af39de2376, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Eyewear_Gloss
+    second: {fileID: 2800000, guid: 1ee7667dd7bb2754b87a134ec8243835, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Eyewear_Normal
+    second: {fileID: 2800000, guid: c034b6e09f83c194d9d9c5598d57e2c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Eyewear_Opacity
+    second: {fileID: 2800000, guid: 945df2f061c9b9d4aa47600ce51dc432, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Eyewear_Specular
+    second: {fileID: 2800000, guid: 5e8388e4b54251a4fbc8176cbce72b48, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Glove_Diffuse
+    second: {fileID: 2800000, guid: 605942ef6a87e444ea9048fb4b5e26e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Glove_Gloss
+    second: {fileID: 2800000, guid: 0c3b733bd9db5c444a4a5a861f1685e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Glove_Normal
+    second: {fileID: 2800000, guid: 28782751d9a56434b958d16ad99d99ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Glove_Opacity
+    second: {fileID: 2800000, guid: aa783e4f746acd14da8ac48b10ea1d53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Glove_Specular
+    second: {fileID: 2800000, guid: 257744069ffd79e4582cb3b7e6066a48, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Shoes_Diffuse
+    second: {fileID: 2800000, guid: 68a9c11e1866449408479439264be2e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Shoes_Gloss
+    second: {fileID: 2800000, guid: e9c255c8e63ab014b90d7bfa42c291f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Shoes_Normal
+    second: {fileID: 2800000, guid: e4e9344062139e242a60dd7de3d048dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Shoes_Opacity
+    second: {fileID: 2800000, guid: c0ac6e42210ecb641897bd4d50dc976c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Shoes_Specular
+    second: {fileID: 2800000, guid: 6dc26864efb8cf5439e2a168e1ca0126, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Top_Diffuse
+    second: {fileID: 2800000, guid: 998f7d6e2a50fa14d89cf19e9924ae62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Top_Gloss
+    second: {fileID: 2800000, guid: c79e505d41b765e4a95bf91ef1609e44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Top_Normal
+    second: {fileID: 2800000, guid: 10f148bad4f4bc64eb568112f2103009, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Top_Opacity
+    second: {fileID: 2800000, guid: 8b6309b92bca2664e98c42e783df0c69, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CombatJane_Top_Specular
+    second: {fileID: 2800000, guid: a96b5b7a7a497f34ca0aab5c016f6c99, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
